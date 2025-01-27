@@ -9,6 +9,6 @@ plugins:
 nav:
   - index.md
   - explanation.md
-  - how-to-guide.rm
-  - reference.rm
-  - tutorial.rm
+  - how-to-guide.md
+  - reference.md
+  - tutorial.md
