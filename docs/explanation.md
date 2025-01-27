@@ -1,5 +1,5 @@
 # Explicación
 
-A continuación se presenta como usar la función suma:
+A continuación se presenta como usar la función suma: 
 
 :::sum.sum
