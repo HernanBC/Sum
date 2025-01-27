@@ -1,0 +1,11 @@
+site_name: Proyecto Suma
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - index.md
+  - how-to-guide.md
